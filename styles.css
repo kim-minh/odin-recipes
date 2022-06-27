@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(89, 156, 224);
+    font-family: system-ui, -apple-system, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+.credit {
+    text-align: right;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    max-width: 50%;
+    max-height: 50%;
+    
+}
